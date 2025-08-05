@@ -5,14 +5,12 @@ This repository contains my projects and notes from the courses I have completed
 # Contents
 This repo has a separate folder for each course I've completed. Within each folder, you'll find Jupyter Notebook files (.ipynb) and my notes related to the course topics.
 
-## Python: Fundamental Python programming skills for data science.
+## Python
 
-## Pandas: The Pandas library for data manipulation and analysis.
+## Pandas
 
-## Data Visualization: Visualizing data with Matplotlib and Seaborn.
+## Intro to Machine Learning
 
-## Intro to Machine Learning: Basic machine learning algorithms with scikit-learn.
+## Intro to Programming 
 
-## Deep Learning: Building deep learning models with TensorFlow and Keras.
 
-## SQL: The database query language.
